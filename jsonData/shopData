@@ -1,0 +1,437 @@
+{
+  {
+    "_id" : ObjectId("5eb920df3272d8164814ffe6"),
+    "imgUrl" : "/maocai/mc.png",
+    "name" : "薄荷冒菜",
+    "address" : "四川成都市",
+    "sell" : 5002,
+    "distributionFee" : 4,
+    "collect" : 0,
+    "shopType" : "美食",
+    "phone" : "12345678910",
+    "businessHours" : "09:00-23:00",
+    "time" : 30,
+    "dishes" : [{
+        "_id" : ObjectId("5ec4386d3ef54a30a07370d0"),
+        "foods" : [{
+            "_id" : ObjectId("5ec4386d3ef54a30a07370d1"),
+            "imgUrl" : "/maocai/tudou.png",
+            "name" : "土豆",
+            "sell" : 152,
+            "price" : 0.5,
+            "count" : 0
+          }],
+        "dishType" : "热卖"
+      }, {
+        "_id" : ObjectId("5ec4386d3ef54a30a07370d2"),
+        "foods" : [{
+            "_id" : ObjectId("5ec4386d3ef54a30a07370d3"),
+            "imgUrl" : "/maocai/niurou.png",
+            "name" : "牛肉",
+            "sell" : 152,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec4386d3ef54a30a07370d4"),
+            "imgUrl" : "/maocai/niuwan.png",
+            "name" : "牛丸",
+            "sell" : 152,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec4386d3ef54a30a07370d5"),
+            "imgUrl" : "/maocai/xiajiao.png",
+            "name" : "虾饺",
+            "sell" : 154,
+            "price" : 2.5,
+            "count" : 0
+          }],
+        "dishType" : "荤菜"
+      }, {
+        "_id" : ObjectId("5ec4386d3ef54a30a07370d6"),
+        "foods" : [{
+            "_id" : ObjectId("5ec4386d3ef54a30a07370d7"),
+            "imgUrl" : "/maocai/ou.png",
+            "name" : "藕",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec4386d3ef54a30a07370d8"),
+            "imgUrl" : "/maocai/donggua.png",
+            "name" : "冬瓜",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec4386d3ef54a30a07370d9"),
+            "imgUrl" : "/maocai/doupi.png",
+            "name" : "豆皮",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec4386d3ef54a30a07370da"),
+            "imgUrl" : "/maocai/xingbaogu.png",
+            "name" : "杏鲍菇",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }],
+        "dishType" : "素菜"
+      }, {
+        "_id" : ObjectId("5ec4386d3ef54a30a07370db"),
+        "foods" : [{
+            "_id" : ObjectId("5ec4386d3ef54a30a07370dc"),
+            "imgUrl" : "/maocai/mifan.png",
+            "name" : "喷香米饭",
+            "sell" : 150,
+            "price" : 2,
+            "count" : 0
+          }],
+        "dishType" : "米饭"
+      }, {
+        "_id" : ObjectId("5ec4386d3ef54a30a07370dd"),
+        "foods" : [{
+            "_id" : ObjectId("5ec4386d3ef54a30a07370de"),
+            "imgUrl" : "/maocai/kele.png",
+            "name" : "可乐",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec4386d3ef54a30a07370df"),
+            "imgUrl" : "/maocai/suannai.png",
+            "name" : "酸奶",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }],
+        "dishType" : "饮料"
+      }]
+  },
+  {
+    "_id" : ObjectId("5eb9211b3272d8164814ffe8"),
+    "imgUrl" : "/huoguo/hg.png",
+    "name" : "英伦火锅",
+    "address" : "四川成都市",
+    "sell" : 5000,
+    "distributionFee" : 4,
+    "collect" : 0,
+    "shopType" : "美食",
+    "phone" : "12345678911",
+    "businessHours" : "09:00-23:00",
+    "time" : 30,
+    "dishes" : [{
+        "dishType" : "热卖",
+        "foods" : [{
+            "imgUrl" : "/maocai/ou.png",
+            "name" : "藕",
+            "sell" : 150,
+            "price" : 0.90000000000000002,
+            "count" : 0
+          }]
+      }, {
+        "dishType" : "荤菜",
+        "foods" : [{
+            "imgUrl" : "/maocai/niurou.png",
+            "name" : "牛肉",
+            "sell" : 151,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "imgUrl" : "/maocai/niuwan.png",
+            "name" : "牛丸",
+            "sell" : 151,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "imgUrl" : "/maocai/xiajiao.png",
+            "name" : "虾饺",
+            "sell" : 154,
+            "price" : 2.5,
+            "count" : 0
+          }]
+      }, {
+        "dishType" : "素菜",
+        "foods" : [{
+            "imgUrl" : "/maocai/tudou.png",
+            "name" : "土豆",
+            "sell" : 151,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "imgUrl" : "/maocai/donggua.png",
+            "name" : "冬瓜",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "imgUrl" : "/maocai/doupi.png",
+            "name" : "豆皮",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "imgUrl" : "/maocai/xingbaogu.png",
+            "name" : "杏鲍菇",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }]
+      }, {
+        "dishType" : "米饭",
+        "foods" : [{
+            "imgUrl" : "/maocai/mifan.png",
+            "name" : "喷香米饭",
+            "sell" : 150,
+            "price" : 2,
+            "count" : 0
+          }]
+      }, {
+        "dishType" : "饮料",
+        "foods" : [{
+            "imgUrl" : "/maocai/kele.png",
+            "name" : "可乐",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "imgUrl" : "/maocai/suannai.png",
+            "name" : "酸奶",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }]
+      }]
+  },
+  {
+    "_id" : ObjectId("5eb922963272d8164814ffed"),
+    "imgUrl" : "/zhongcan/szrp.png",
+    "name" : "好吃川菜",
+    "address" : "四川成都市",
+    "sell" : 5007,
+    "distributionFee" : 4,
+    "collect" : 0,
+    "shopType" : "美食",
+    "phone" : "12345678912",
+    "businessHours" : "09:00-23:00",
+    "time" : 30,
+    "dishes" : [{
+        "_id" : ObjectId("5ec20150c69ea929b8ab0a2c"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a2d"),
+            "imgUrl" : "/zhongcan/szrp.png",
+            "name" : "水煮肉片",
+            "sell" : 154,
+            "price" : 10,
+            "count" : 0
+          }],
+        "dishType" : "热卖"
+      }, {
+        "_id" : ObjectId("5ec20150c69ea929b8ab0a2e"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a2f"),
+            "imgUrl" : "/zhongcan/ggj.png",
+            "name" : "干锅鸡",
+            "sell" : 155,
+            "price" : 18,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a30"),
+            "imgUrl" : "/zhongcan/hgr.png",
+            "name" : "回锅肉",
+            "sell" : 155,
+            "price" : 18,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a31"),
+            "imgUrl" : "/zhongcan/lrfs.png",
+            "name" : "烂肉粉丝",
+            "sell" : 153,
+            "price" : 18,
+            "count" : 0
+          }],
+        "dishType" : "荤菜"
+      }, {
+        "_id" : ObjectId("5ec20150c69ea929b8ab0a32"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a33"),
+            "imgUrl" : "/zhongcan/phg.png",
+            "name" : "拍黄瓜",
+            "sell" : 153,
+            "price" : 8,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a34"),
+            "imgUrl" : "/zhongcan/mpdf.png",
+            "name" : "麻婆豆腐",
+            "sell" : 151,
+            "price" : 12,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a35"),
+            "imgUrl" : "/zhongcan/tds.png",
+            "name" : "炒土豆丝",
+            "sell" : 150,
+            "price" : 12,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a36"),
+            "imgUrl" : "/zhongcan/op.png",
+            "name" : "炒藕片",
+            "sell" : 150,
+            "price" : 12,
+            "count" : 0
+          }],
+        "dishType" : "素菜"
+      }, {
+        "_id" : ObjectId("5ec20150c69ea929b8ab0a37"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a38"),
+            "imgUrl" : "/maocai/mifan.png",
+            "name" : "喷香米饭",
+            "sell" : 151,
+            "price" : 2,
+            "count" : 0
+          }],
+        "dishType" : "米饭"
+      }, {
+        "_id" : ObjectId("5ec20150c69ea929b8ab0a39"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a3a"),
+            "imgUrl" : "/maocai/kele.png",
+            "name" : "可乐",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20150c69ea929b8ab0a3b"),
+            "imgUrl" : "/maocai/suannai.png",
+            "name" : "酸奶",
+            "sell" : 150,
+            "price" : 2.5,
+            "count" : 0
+          }],
+        "dishType" : "饮料"
+      }]
+  },
+  {
+    "_id" : ObjectId("5eb92d4b3272d8164814fff3"),
+    "imgUrl" : "/naicha/kf.png",
+    "name" : "好喝奶茶店",
+    "address" : "四川成都市",
+    "sell" : 5006,
+    "distributionFee" : 4,
+    "collect" : 0,
+    "shopType" : "饮料",
+    "phone" : "12345678913",
+    "businessHours" : "09:00-23:00",
+    "time" : 30,
+    "dishes" : [{
+        "_id" : ObjectId("5ec20413c69ea929b8ab0e09"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e0a"),
+            "imgUrl" : "/naicha/kf.png",
+            "name" : "拿铁",
+            "sell" : 153,
+            "price" : 10,
+            "count" : 0
+          }],
+        "dishType" : "热卖"
+      }, {
+        "_id" : ObjectId("5ec20413c69ea929b8ab0e0b"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e0c"),
+            "imgUrl" : "/naicha/ls.png",
+            "name" : "蓝山咖啡",
+            "sell" : 156,
+            "price" : 18,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e0d"),
+            "imgUrl" : "/naicha/jtmqd.png",
+            "name" : "焦糖玛奇朵",
+            "sell" : 152,
+            "price" : 18,
+            "count" : 0
+          }],
+        "dishType" : "咖啡"
+      }, {
+        "_id" : ObjectId("5ec20413c69ea929b8ab0e0e"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e0f"),
+            "imgUrl" : "/naicha/sxc.png",
+            "name" : "烧仙草",
+            "sell" : 150,
+            "price" : 8,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e10"),
+            "imgUrl" : "/naicha/zznc.png",
+            "name" : "珍珠奶茶",
+            "sell" : 151,
+            "price" : 7,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e11"),
+            "imgUrl" : "/naicha/ygnc.png",
+            "name" : "椰果奶茶",
+            "sell" : 150,
+            "price" : 7,
+            "count" : 0
+          }],
+        "dishType" : "奶茶"
+      }, {
+        "_id" : ObjectId("5ec20413c69ea929b8ab0e12"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e13"),
+            "imgUrl" : "/naicha/yync.png",
+            "name" : "芋圆奶茶",
+            "sell" : 150,
+            "price" : 10,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e14"),
+            "imgUrl" : "/naicha/lmspn.png",
+            "name" : "蓝莓双皮奶",
+            "sell" : 151,
+            "price" : 10,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e15"),
+            "imgUrl" : "/naicha/alaspn.png",
+            "name" : "奥利奥双皮奶",
+            "sell" : 151,
+            "price" : 11,
+            "count" : 0
+          }],
+        "dishType" : "双皮奶"
+      }, {
+        "_id" : ObjectId("5ec20413c69ea929b8ab0e16"),
+        "foods" : [{
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e17"),
+            "imgUrl" : "/naicha/alang.png",
+            "name" : "奥利奥奶盖",
+            "sell" : 150,
+            "price" : 14,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e18"),
+            "imgUrl" : "/naicha/lvng.png",
+            "name" : "绿茶奶盖",
+            "sell" : 152,
+            "price" : 13,
+            "count" : 0
+          }, {
+            "_id" : ObjectId("5ec20413c69ea929b8ab0e19"),
+            "imgUrl" : "/naicha/hcng.png",
+            "name" : "红茶奶盖",
+            "sell" : 152,
+            "price" : 13,
+            "count" : 0
+          }],
+        "dishType" : "奶盖"
+      }]
+  }
+}

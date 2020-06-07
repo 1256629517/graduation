@@ -1,23 +1,36 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'App'
-}
+  import './assets/css/common.css'
+
+  export default {
+    name: 'App',
+    data() {
+    },
+    methods: {
+    }
+  }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+  body::-webkit-scrollbar {
+    width: 10px;
+    height: 2px;
+    background: #ccc;
+    border-radius: 10px; /*外层轨道*/
+  }
+  body::-webkit-scrollbar-thumb {
+    display: block;
+    width: 6px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background: #888; /*内层轨道*/
+  }
+</style>
+
+<style scoped>
 </style>
